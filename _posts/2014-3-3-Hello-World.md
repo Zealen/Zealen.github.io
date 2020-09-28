@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: 30 Day Project: Day 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Welcome to the resuscitation of a project that I had kicking since earlier in the year.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The idea is based around the concept of Conway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/images\30dayproject\Gospers_glider_gun.gif)
+
+![_config.yml]({{ site.baseurl }}/images\30dayproject\day1.png)
